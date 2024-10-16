@@ -12,6 +12,7 @@ Este projeto foi desenvolvido para conscientizar e informar sobre a prevenção 
 Clone o repositório:
 
 git clone https://github.com/seu-usuario/outubro-rosa.git
+
 Acesse o diretório do projeto:
 
 cd outubro-rosa
